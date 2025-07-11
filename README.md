@@ -91,4 +91,6 @@ I'm a passionate Full-Stack Web Developer who brings ideas to life with elegant 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-verma-a4b4a7253/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Cosboyagent45)
+
 
