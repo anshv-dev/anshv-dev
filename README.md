@@ -4,7 +4,7 @@
 const fullStackWebDeveloper = {
   name: "Ansh Verma",
   role: "Full Stack Web Developer 👨‍💻",
-  favoriteLanguages: ["C++", "JavaScript", "Python"],
+  favoriteLanguages: ["C++", "JavaScript", "Go"],
 };
 
 const sayHi = () => {
